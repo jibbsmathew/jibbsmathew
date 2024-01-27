@@ -50,13 +50,14 @@ I'm a data scientist who is passionate about leveraging data to drive insightful
 ## 📊 GitHub Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jibbsmathew&layout=compact&theme=vision-friendly-dark)
 
-## 🌱 Currently Learning
+## 🌱 Currently Working On
 
-- Deep Learning Specialization on Coursera 
-- React for building data dashboards
+- 30 Days of Data Science
+- Creating Dashboards on Tableau for Business Insights
+
 
 ## 📫 How to Reach Me
 
 Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremymathew08/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jibbsmathew38@gmail.com)
