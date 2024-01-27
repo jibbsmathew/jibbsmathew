@@ -46,7 +46,8 @@ I'm a data scientist who is passionate about leveraging data to drive insightful
 
 Explore more about me and my work on my personal website:
 
-<a href="https://www.jeremymathew.com/" style="text-decoration: none; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 5px;">Visit Jeremy Mathew's Website</a>
+[![Visit Jeremy Mathew's Website](https://img.shields.io/badge/Visit%20Website-%234CAF50?style=for-the-badge&logo=github)](https://www.jeremymathew.com/)
+
 
 
 
