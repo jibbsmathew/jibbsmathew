@@ -50,8 +50,8 @@ I'm a data scientist who is passionate about leveraging data to drive insightful
 ## 📊 GitHub Stats 
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&theme=dark&hide_border=true" width="48%" align="right" >
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true" width="48%" >
+ <img src="https://github-readme-stats.vercel.app/api?username=jibbsmathew&count_private=true&show_icons=true&theme=dark&hide_border=true" width="48%" align="right" >
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibbsmathew&theme=dark&hide_border=true" width="48%" >
 </p>
 
 ## 🌱 Currently Learning
