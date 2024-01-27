@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Jeremy
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E2djd2OThmaGV1bG9rYXBvYnJocTB4N3Q5bHlkMGNnYmx1ZWl3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oZMTkXOGQBsLUVnLw7/giphy.gif" alt="Central GIF" width="70%"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E2djd2OThmaGV1bG9rYXBvYnJocTB4N3Q5bHlkMGNnYmx1ZWl3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oZMTkXOGQBsLUVnLw7/giphy.gif" alt="Central GIF" width="80%"> 
 </p>
 
-I'm a data scientist who is passionate about leveraging data to drive insightful and ethical business decisions. I have experience across the full data science pipeline, from acquiring and cleaning data to building models and communicating results to stakeholders.
+I'm a data scientist who is passionate about leveraging data to drive insightful business decisions. I have experience across the full data science pipeline, from acquiring and cleaning data to building models and communicating results to stakeholders.
 
 ## 🛠 Technologies and Tools
 
@@ -19,6 +19,38 @@ I'm a data scientist who is passionate about leveraging data to drive insightful
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
 </p>
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/r%20-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sql%20-%23E34F26.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java%20-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/xml%20-%231572B6.svg?&style=for-the-badge&logo=xml&logoColor=white"/>
+  <!-- Operating Systems -->
+  <img src="https://img.shields.io/badge/unix%20linux%20-%2314354C.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/windows%20-%23D00000.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mac%20os%20-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/oracle%20-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spss%20-%#CC0000.svg?&style=for-the-badge&logo=spss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/plsql%20-%#E15258.svg?&style=for-the-badge&logo=plsql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql%20-%2314354C.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/google%20cloud%20platform%20-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase%20-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/bigquery%20-%234285F4.svg?&style=for-the-badge&logo=bigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/etl%20-%23F5A443.svg?&style=for-the-badge&logo=etl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nosql%20-%#47A248.svg?&style=for-the-badge&logo=nosql&logoColor=white"/>
+  <!-- Web Designing -->
+  <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/wordpress%20-%2321759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/restful%20web%20services%20-%23777BB4.svg?&style=for-the-badge&logo=rest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/soap%20-%23148CD2.svg?&style=for-the-badge&logo
+
 
 ## 🎧 Currently Listening to
 
