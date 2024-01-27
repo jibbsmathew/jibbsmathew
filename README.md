@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jeremy
+# Hi there, I'm Jeremy!
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E2djd2OThmaGV1bG9rYXBvYnJocTB4N3Q5bHlkMGNnYmx1ZWl3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oZMTkXOGQBsLUVnLw7/giphy.gif" alt="Central GIF" width="80%"> 
