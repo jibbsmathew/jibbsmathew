@@ -45,7 +45,7 @@ I'm a data scientist who is passionate about leveraging data to drive insightful
 ## 🎧 Currently Listening to
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-username&cover_image=true&theme=default&show_offline=false&background_color=121212"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=twtvm2u29b8zvjmlempwcl4lp&cover_image=true&theme=default&show_offline=false&background_color=121212"/>
 </p>
 
 ## 📊 GitHub Stats 
