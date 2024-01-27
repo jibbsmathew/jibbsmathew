@@ -30,22 +30,20 @@ I'm a data scientist who is passionate about leveraging data to drive insightful
   <img src="https://img.shields.io/badge/mac%20os%20-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
   <!-- Databases -->
   <img src="https://img.shields.io/badge/oracle%20-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spss%20-%#CC0000.svg?&style=for-the-badge&logo=spss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/plsql%20-%#E15258.svg?&style=for-the-badge&logo=plsql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql%20-%2314354C.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/google%20cloud%20platform%20-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase%20-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/bigquery%20-%234285F4.svg?&style=for-the-badge&logo=bigquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/etl%20-%23F5A443.svg?&style=for-the-badge&logo=etl&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nosql%20-%#47A248.svg?&style=for-the-badge&logo=nosql&logoColor=white"/>
   <!-- Web Designing -->
   <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/wordpress%20-%2321759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/restful%20web%20services%20-%23777BB4.svg?&style=for-the-badge&logo=rest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/soap%20-%23148CD2.svg?&style=for-the-badge&logo
+  <img src="https://img.shields.io/badge/soap%20-%23148CD2.svg?&style=for-the-badge&logo/>
+    </p>
 
 
 ## 🎧 Currently Listening to
