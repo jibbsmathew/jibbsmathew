@@ -42,9 +42,12 @@ I'm a data scientist who is passionate about leveraging data to drive insightful
     </p>
 
 
-## 🎧 Currently Listening to
+## 🌐 Personal Website
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=twtvm2u29b8zvjmlempwcl4lp&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://open.spotify.com/user/twtvm2u29b8zvjmlempwcl4lp)
+Explore more about me and my work on my personal website:
+
+<a href="https://www.jeremymathew.com/" style="text-decoration: none; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 5px;">Visit Jeremy Mathew's Website</a>
+
 
 
 ## 📊 GitHub Stats 
