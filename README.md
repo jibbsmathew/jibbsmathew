@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Jeremy
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&width=435&lines=Data+Scientist+?;Pythonista+?;ML+Enthusiast+?;Always+Learning+New+Things?">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E2djd2OThmaGV1bG9rYXBvYnJocTB4N3Q5bHlkMGNnYmx1ZWl3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oZMTkXOGQBsLUVnLw7/giphy.gif" alt="Central GIF" width="70%"> 
 </p>
 
 I'm a data scientist who is passionate about leveraging data to drive insightful and ethical business decisions. I have experience across the full data science pipeline, from acquiring and cleaning data to building models and communicating results to stakeholders.
