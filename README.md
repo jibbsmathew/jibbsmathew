@@ -1,10 +1,7 @@
 # Hi there, I'm Jeremy!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E2djd2OThmaGV1bG9rYXBvYnJocTB4N3Q5bHlkMGNnYmx1ZWl3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oZMTkXOGQBsLUVnLw7/giphy.gif" alt="Central GIF" width="80%"> 
-</p>
 
-I'm a data scientist who is passionate about leveraging data to drive insightful business decisions. I have experience across the full data science pipeline, from acquiring and cleaning data to building models and communicating results to stakeholders.
+I'm a data enthusiast who is passionate about leveraging data to drive insightful business decisions. I have experience across the full data pipeline, from acquiring and cleaning data to building models and communicating results to stakeholders.
 
 ## 🛠 Technologies and Tools
 
@@ -42,22 +39,10 @@ I'm a data scientist who is passionate about leveraging data to drive insightful
     </p>
 
 
-## 🌐 Personal Website
-
-Explore more about me and my work on my personal website:
-
-[![Visit Jeremy Mathew's Website](https://img.shields.io/badge/Visit%20Website-%234CAF50?style=for-the-badge&logo=github)](https://www.jeremymathew.com/)
-
-
-
 
 ## 📊 GitHub Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jibbsmathew&layout=compact&theme=vision-friendly-dark)
 
-## 🌱 Currently Working On
-
-- 30 Days of Data Science
-- Creating Dashboards on Tableau for Business Insights
 
 
 ## 📫 How to Reach Me
